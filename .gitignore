@@ -1,4 +1,5 @@
 ipch/
+.vs/
 Debug/
 x64/
 ConsoleApplication1/Debug/
