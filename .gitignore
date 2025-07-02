@@ -5,7 +5,7 @@ x64/
 ConsoleApplication1/Debug/
 ConsoleApplication1/x64/
 *.db
-*.opencvdb
+*.opendb
 *.filters
 *.user
 *.mp4
